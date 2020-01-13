@@ -11,13 +11,13 @@ module.exports.createOrder = (event, context, callback) => {
   });
 
   let email = "vitalizinkevich@gmail.com"
-  // let ragu = "ragu27@mail.ru"
+  let ragu = "otdelkavdome@mail.ru"
   const textBody = `
     текст тела письма
   `;
   const paramsAdmin = {
     Destination: {
-      ToAddresses: [email]
+      ToAddresses: [email, ragu]
     },
     Message: {
       Body: {

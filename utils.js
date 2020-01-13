@@ -10,7 +10,7 @@ module.exports.createErrorResponse = (statusCode, message) => ({
   headers: {  'Content-Type': 'text/plain',
               'Access-Control-Allow-Origin': '*',
               'Access-Control-Allow-Credentials': true},
-  body: message || 'Incorrect id',
+  body: message || 'error message',
 });
 
 const dbExecute = (db, fn) => db.then(fn).finally(() => { mongoose.connection.close() });

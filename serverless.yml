@@ -33,15 +33,21 @@ functions:
           cors: true
           # authorizer: aws_iam
 
-  # getOrder:
-  #   handler: getOrder.getOrder
-  #   events:
-  #     - http:
-  #         path: order
-  #         method: get
-  #         cors: true
-  #         authorizer: aws_iam
+  getExamples:
+    handler: getExamples.getExamples
+    events:
+      - http:
+          path: example
+          method: get
+          cors: true
 
+  getPrice:
+      handler: getExamples.getPrice
+      events:
+        - http:
+            path: price
+            method: get
+            cors: true
   # updateOrder:
   #   handler: updateOrder.updateOrder
   #   events:
