@@ -153,9 +153,9 @@ let price = [
     "location": "метр квадратный", 
     "name": "Декоративная штукатурка внутренния",
     "dateTimeEnd": "от 7р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "tracks": ["/tabs/examples/2"],
+    "tracks": [""],
     "phone": "+375 29 8727844"
   },
   {
@@ -164,9 +164,9 @@ let price = [
     "location": "метр квадратный", 
     "name": "Декоративная штукатурка фасада",
     "dateTimeEnd": "от 7р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "tracks": ["/tabs/examples/9"],
+    "tracks": [""],
     "phone": "+375 29 8727844"
   },
     {
@@ -175,9 +175,9 @@ let price = [
     "location": "метр квадратный",
     "name": "Штукатурка внутренних стен",
     "dateTimeEnd": "от 10р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "tracks": ["/tabs/examples/8", "/tabs/examples/7", "/tabs/examples/6"],
+    "tracks": [""],
     "phone": "+375 29 8727844"}
   ,
   {
@@ -186,9 +186,9 @@ let price = [
     "location": "метр квадратный",
     "name": "Шпатлевка стен",
     "dateTimeEnd": "от 4р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "tracks": ["/tabs/examples/8", "/tabs/examples/7"],
+    "tracks": [""],
     "phone": "+375 29 8727844"
      
   },
@@ -198,7 +198,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Шпатлевка потолков",
     "dateTimeEnd": "от 10р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -210,7 +210,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Подготовка стен под покраску",
     "dateTimeEnd": "от 12р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -221,7 +221,7 @@ let price = [
     "location": "метр квадратный ",
     "name": "Подготовка потолков под покраску",
     "dateTimeEnd": "от 15р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -232,7 +232,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Штукатурка фасада",
     "dateTimeEnd": "от 6р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -242,7 +242,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Покраска фасада от 5р",
     "dateTimeEnd": "от 5р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"},
@@ -252,7 +252,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Утепление пенопластом фасада",
     "dateTimeEnd": "от 10р",
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -263,7 +263,7 @@ let price = [
       "location": "метр квадратный",
       "name": "Утепление пенопластом цокольного этажа",
       "dateTimeEnd": "от 10р",
-      "description": "",
+      "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
       "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
       "tracks": [""],
       "phone": "+375 29 8727844"
@@ -273,9 +273,9 @@ let price = [
     "location": "метр квадратный", 
     "name": "Поклейка обоев на стены", 
     "dateTimeEnd": "от 4р",  
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "tracks": ["/tabs/examples/4"],
+    "tracks": [""],
     "phone": "+375 29 8727844"
     }
    ,
@@ -285,7 +285,7 @@ let price = [
     "location": "метр квадратный", 
     "name": "Укладка плитки на стены",
     "dateTimeEnd": "от 15р",  
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"},
@@ -295,7 +295,7 @@ let price = [
       "location": "метр квадратный", 
       "name": "Укладка плитки на пол",
       "dateTimeEnd": "от 15р",  
-      "description": "",
+      "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
       "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
       "tracks": [""],
       "phone": "+375 29 8727844"},
@@ -305,9 +305,9 @@ let price = [
     "location": "метр квадратный", 
     "name": "Монтаж гипсакартона на стены (подготовительные работы)", 
     "dateTimeEnd": "от 15р",  
-    "description": "",
+    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-    "tracks": ["/tabs/examples/10"],
+    "tracks": [""],
     "phone": "+375 29 8727844"},
     {
       "id": 15,
@@ -315,7 +315,7 @@ let price = [
       "location": "метр квадратный", 
       "name": "Монтаж гипсакартона на потолки (подготовительные работы)",
       "dateTimeEnd": "от 15р",  
-      "description": "",
+      "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
       "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
       "tracks": [""],
       "phone": "+375 29 8727844"},
@@ -325,9 +325,9 @@ let price = [
         "location": "метр квадратный", 
         "name": "Монтаж из гипсакартона стоек, перегородок, коробов",
         "dateTimeEnd": "договорная",  
-        "description": "",
+        "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
         "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
-        "tracks": ["/tabs/examples/5", "/tabs/examples/6"],
+        "tracks": [""],
         "phone": "+375 29 8727844"}
 
 ]
