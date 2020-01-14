@@ -3,7 +3,8 @@ let examples = [{
   "name": "Декоративная штукатурка внутренних стен.",
   "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/1/1title.jpg",
   "twitter": "",
-  "about": [{"name":"Дом", "descr": "", "foto": [
+  "about": [{"name":"Квартира.", 
+  "descr": "Штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/1/1-2.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/1/1-3.jpg", 
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/1/1-4.jpg"]}],
@@ -16,7 +17,8 @@ let examples = [{
   "name": "Штукатурка внутренних стен.",
   "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/2/2title.jpg",
   "twitter": "",
-  "about": [{"name":"Квартира", "descr": "", "foto": [
+  "about": [{"name":"Квартира", 
+  "descr": "Нанесение грунтовки, штукатурка стен.", "foto": [
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/2/2-4.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/2/2-3.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/2/2-2.jpg",
@@ -32,7 +34,8 @@ let examples = [{
   "name": "Малярные работы покраска стен, потолков" ,
   "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/3/3title.jpg",
   "twitter": "",
-  "about": [{"name":"Объект Дом", "descr": "", "foto": [
+  "about": [{"name":"Квартира", 
+  "descr": "Формирование потолка из гипсокартона, грунтовка и штукатурка стен, шпатлевка стен и потолка, нанесение стеклохолста, шпатлевка стеклохолста, покраска.", "foto": [
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/3/3-10.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/3/3-9.JPG",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/3/3-8.jpg",
@@ -47,7 +50,8 @@ let examples = [{
   "name": "Малярные работы, поклейка обоев",
   "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4title.jpg",
   "twitter": "",
-  "about": [{"name":"Квартира", "descr": "", "foto": [
+  "about": [{"name":"Квартира", 
+  "descr": "Нанесение грутовки, штукатурка стен, шпатлевка стен, грунтовка, поклейка обоев.", "foto": [
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4-1.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4-2.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4-3.jpg"
@@ -59,7 +63,8 @@ let examples = [{
     "name": "Арка из гипсокортона, декоративная штукатурка",
     "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/5/5title.jpg",
     "twitter": "",
-    "about": [{"name":"Арка", "descr": "", "foto": [
+    "about": [{"name":"Арка", 
+    "descr": "Сформирована арка из гипсокартона, шпатлевка стыков, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
       "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/5/5-1.jpg",
       "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/5/5-2.jpg",
       "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/5/5-3.jpg",
@@ -73,7 +78,8 @@ let examples = [{
       "name": "Внутренняя отделка квартиры",
       "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/6/6title.jpg",
       "twitter": "",
-      "about": [{"name":"Квартира", "descr": "", "foto": [
+      "about": [{"name":"Квартира", 
+      "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
         "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/6/6-1.jpg",
         "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/6/6-4.jpg",
         "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/6/6-5.jpg",
@@ -89,7 +95,8 @@ let examples = [{
         "name": "Внутренняя отделка квартиры декоративной штукатуркой",
         "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/7/7title.jpg",
         "twitter": "",
-        "about": [{"name":"Квартира", "descr": "", "foto": [
+        "about": [{"name":"Квартира", 
+        "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
           "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/7/7-1.jpg",
           "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/7/7-2.jpg",
           "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/7/7-3.jpg",
@@ -103,7 +110,8 @@ let examples = [{
           "name": "Внутренняя отделка прихожей декоративной штукатуркой",
           "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/8/8title.jpg",
           "twitter": "",
-          "about": [{"name":"Квартира", "descr": "", "foto": [
+          "about": [{"name":"Квартира", 
+          "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
             "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/8/8-1.jpg",
             "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/8/8-2.jpg",
             "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/8/8-3.jpg",
@@ -117,7 +125,8 @@ let examples = [{
             "name": "Внешняя отделка здания декоративной штукатуркой",
             "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/9/9title.jpg",
             "twitter": "",
-            "about": [{"name":"Здание", "descr": "", "foto": [
+            "about": [{"name":"Здание", 
+            "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
               "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/9/9-1.jpg",
               "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/9/9-2.jpg",
               "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/9/9-3.jpg",
@@ -132,7 +141,8 @@ let examples = [{
               "name": "Внутренняя отделка стен декоративной штукатуркой",
               "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/10/10title.jpg",
               "twitter": "",
-              "about": [{"name":"Здание", "descr": "", "foto": [
+              "about": [{"name":"Здание", 
+              "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
                 "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/10/10-1.jpg",
                 "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/10/10-2.jpg",
                 "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/10/10-3.jpg",
@@ -153,7 +163,17 @@ let price = [
     "location": "метр квадратный", 
     "name": "Декоративная штукатурка внутренния",
     "dateTimeEnd": "от 7р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [
+      {"name": "Декоративная штукатурка внутренних стен.", "link": "/tabs/examples/1"},
+      {"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"},
+      {"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"},
+      {"name": "Малярные работы, поклейка обоев.", "link": "/tabs/examples/4"},
+      {"name": "Внутренняя отделка квартиры.", "link": "/tabs/examples/6"},
+      {"name": "Внутренняя отделка квартиры декоративной штукатуркой.", "link": "/tabs/examples/7"},
+      {"name": "Внутренняя отделка прихожей декоративной штукатуркой.", "link": "/tabs/examples/8"},
+      {"name": "Внешняя отделка здания декоративной штукатуркой.", "link": "/tabs/examples/9"},
+      {"name": "Внутренняя отделка стен декоративной штукатуркой.", "link": "/tabs/examples/10"}
+    ],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -164,7 +184,9 @@ let price = [
     "location": "метр квадратный", 
     "name": "Декоративная штукатурка фасада",
     "dateTimeEnd": "от 7р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [
+      {"name": "Внешняя отделка здания декоративной штукатуркой.", "link": "/tabs/examples/9"}
+      ],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -175,7 +197,17 @@ let price = [
     "location": "метр квадратный",
     "name": "Штукатурка внутренних стен",
     "dateTimeEnd": "от 10р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [
+      {"name": "Декоративная штукатурка внутренних стен.", "link": "/tabs/examples/1"},
+      {"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"},
+      {"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"},
+      {"name": "Малярные работы, поклейка обоев.", "link": "/tabs/examples/4"},
+      {"name": "Внутренняя отделка квартиры.", "link": "/tabs/examples/6"},
+      {"name": "Внутренняя отделка квартиры декоративной штукатуркой.", "link": "/tabs/examples/7"},
+      {"name": "Внутренняя отделка прихожей декоративной штукатуркой.", "link": "/tabs/examples/8"},
+      {"name": "Внешняя отделка здания декоративной штукатуркой.", "link": "/tabs/examples/9"},
+      {"name": "Внутренняя отделка стен декоративной штукатуркой.", "link": "/tabs/examples/10"}
+    ],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"}
@@ -186,7 +218,18 @@ let price = [
     "location": "метр квадратный",
     "name": "Шпатлевка стен",
     "dateTimeEnd": "от 4р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [
+      {"name": "Декоративная штукатурка внутренних стен.", "link": "/tabs/examples/1"},
+      {"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"},
+      {"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"},
+      {"name": "Малярные работы, поклейка обоев.", "link": "/tabs/examples/4"},
+      {"name": "Арка из гипсокартона.", "link": "/tabs/examples/5"},
+      {"name": "Внутренняя отделка квартиры.", "link": "/tabs/examples/6"},
+      {"name": "Внутренняя отделка квартиры декоративной штукатуркой.", "link": "/tabs/examples/7"},
+      {"name": "Внутренняя отделка прихожей декоративной штукатуркой.", "link": "/tabs/examples/8"},
+      {"name": "Внешняя отделка здания декоративной штукатуркой.", "link": "/tabs/examples/9"},
+      {"name": "Внутренняя отделка стен декоративной штукатуркой.", "link": "/tabs/examples/10"}
+    ],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -198,19 +241,25 @@ let price = [
     "location": "метр квадратный",
     "name": "Шпатлевка потолков",
     "dateTimeEnd": "от 10р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [
+      {"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"}
+    ],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
-     
-  },
+    },
   {
     "id": 7,
     "dateTimeStart": "Малярные работы",
     "location": "метр квадратный",
     "name": "Подготовка стен под покраску",
     "dateTimeEnd": "от 12р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [
+      {"name": "Внутренняя отделка квартиры.", "link": "/tabs/examples/6"},
+      {"name": "Внутренняя отделка квартиры декоративной штукатуркой.", "link": "/tabs/examples/7"},
+      {"name": "Внутренняя отделка прихожей декоративной штукатуркой.", "link": "/tabs/examples/8"},
+      {"name": "Внутренняя отделка стен декоративной штукатуркой.", "link": "/tabs/examples/10"}
+    ],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -221,7 +270,7 @@ let price = [
     "location": "метр квадратный ",
     "name": "Подготовка потолков под покраску",
     "dateTimeEnd": "от 15р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [{"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -232,7 +281,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Штукатурка фасада",
     "dateTimeEnd": "от 6р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [{"name": "Внешняя отделка здания декоративной штукатуркой.", "link": "/tabs/examples/9"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -242,7 +291,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Покраска фасада от 5р",
     "dateTimeEnd": "от 5р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [{"name": "Внешняя отделка здания декоративной штукатуркой.", "link": "/tabs/examples/9"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"},
@@ -252,7 +301,7 @@ let price = [
     "location": "метр квадратный",
     "name": "Утепление пенопластом фасада",
     "dateTimeEnd": "от 10р",
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -273,7 +322,7 @@ let price = [
     "location": "метр квадратный", 
     "name": "Поклейка обоев на стены", 
     "dateTimeEnd": "от 4р",  
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [{"name": "Малярные работы, поклейка обоев.", "link": "/tabs/examples/4"}],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"
@@ -285,7 +334,7 @@ let price = [
     "location": "метр квадратный", 
     "name": "Укладка плитки на стены",
     "dateTimeEnd": "от 15р",  
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"},
@@ -295,7 +344,7 @@ let price = [
       "location": "метр квадратный", 
       "name": "Укладка плитки на пол",
       "dateTimeEnd": "от 15р",  
-      "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+      "description": [],
       "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
       "tracks": [""],
       "phone": "+375 29 8727844"},
@@ -305,7 +354,10 @@ let price = [
     "location": "метр квадратный", 
     "name": "Монтаж гипсакартона на стены (подготовительные работы)", 
     "dateTimeEnd": "от 15р",  
-    "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+    "description": [
+      {"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"},
+      {"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"}
+    ],
     "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
     "tracks": [""],
     "phone": "+375 29 8727844"},
@@ -315,7 +367,10 @@ let price = [
       "location": "метр квадратный", 
       "name": "Монтаж гипсакартона на потолки (подготовительные работы)",
       "dateTimeEnd": "от 15р",  
-      "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+      "description": [
+          {"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"},
+          {"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"}
+      ],
       "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
       "tracks": [""],
       "phone": "+375 29 8727844"},
@@ -325,7 +380,11 @@ let price = [
         "location": "метр квадратный", 
         "name": "Монтаж из гипсакартона стоек, перегородок, коробов",
         "dateTimeEnd": "договорная",  
-        "description": [{"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"}],
+        "description": [
+          {"name": "Арка из гипсокартона.", "link": "/tabs/examples/5"},
+          {"name": "Штукатурка внутренних стен.", "link": "/tabs/examples/2"},
+          {"name": "Малярные работы покраска стен, потолков.", "link": "/tabs/examples/3"}
+        ],
         "speakerIds": [1,2,3,4,5,6,7,8,9,10,11,12,13],
         "tracks": [""],
         "phone": "+375 29 8727844"}
