@@ -17,7 +17,7 @@ let examples = [{
   "name": "Штукатурка внутренних стен.",
   "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/2/2title.jpg",
   "twitter": "",
-  "about": [{"name":"Квартира", 
+  "about": [{"name":"Квартира.", 
   "descr": "Нанесение грунтовки, штукатурка стен.", "foto": [
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/2/2-4.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/2/2-3.jpg",
@@ -34,7 +34,7 @@ let examples = [{
   "name": "Малярные работы покраска стен, потолков" ,
   "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/3/3title.jpg",
   "twitter": "",
-  "about": [{"name":"Квартира", 
+  "about": [{"name":"Квартира.", 
   "descr": "Формирование потолка из гипсокартона, грунтовка и штукатурка стен, шпатлевка стен и потолка, нанесение стеклохолста, шпатлевка стеклохолста, покраска.", "foto": [
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/3/3-10.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/3/3-9.JPG",
@@ -51,7 +51,7 @@ let examples = [{
   "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4title.jpg",
   "twitter": "",
   "about": [{"name":"Квартира", 
-  "descr": "Нанесение грутовки, штукатурка стен, шпатлевка стен, грунтовка, поклейка обоев.", "foto": [
+  "descr": "Нанесение грунтовки, штукатурка стен, шпатлевка стен, грунтовка, поклейка обоев.", "foto": [
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4-1.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4-2.jpg",
     "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/4/4-3.jpg"
@@ -63,7 +63,7 @@ let examples = [{
     "name": "Арка из гипсокортона, декоративная штукатурка",
     "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/5/5title.jpg",
     "twitter": "",
-    "about": [{"name":"Арка", 
+    "about": [{"name":"Арка.", 
     "descr": "Сформирована арка из гипсокартона, шпатлевка стыков, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
       "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/5/5-1.jpg",
       "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/5/5-2.jpg",
@@ -78,7 +78,7 @@ let examples = [{
       "name": "Внутренняя отделка квартиры",
       "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/6/6title.jpg",
       "twitter": "",
-      "about": [{"name":"Квартира", 
+      "about": [{"name":"Квартира.", 
       "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
         "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/6/6-1.jpg",
         "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/6/6-4.jpg",
@@ -95,7 +95,7 @@ let examples = [{
         "name": "Внутренняя отделка квартиры декоративной штукатуркой",
         "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/7/7title.jpg",
         "twitter": "",
-        "about": [{"name":"Квартира", 
+        "about": [{"name":"Квартира.", 
         "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
           "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/7/7-1.jpg",
           "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/7/7-2.jpg",
@@ -110,7 +110,7 @@ let examples = [{
           "name": "Внутренняя отделка прихожей декоративной штукатуркой",
           "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/8/8title.jpg",
           "twitter": "",
-          "about": [{"name":"Квартира", 
+          "about": [{"name":"Квартира.", 
           "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
             "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/8/8-1.jpg",
             "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/8/8-2.jpg",
@@ -122,10 +122,10 @@ let examples = [{
           "email": "otdelkavdome@mail.ru",
           "phone": "+375 29 8727844"},
           {"id": 9,
-            "name": "Внешняя отделка здания декоративной штукатуркой",
+            "name": "Внешняя отделка декоративной штукатуркой",
             "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/9/9title.jpg",
             "twitter": "",
-            "about": [{"name":"Здание", 
+            "about": [{"name":"Дом.", 
             "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
               "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/9/9-1.jpg",
               "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/9/9-2.jpg",
@@ -141,7 +141,7 @@ let examples = [{
               "name": "Внутренняя отделка стен декоративной штукатуркой",
               "profilePic": "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/10/10title.jpg",
               "twitter": "",
-              "about": [{"name":"Здание", 
+              "about": [{"name":"Квартира.", 
               "descr": "Нанесение грунтовки, штукатурка стен, нанесение грунтовки, нанесение декоративной штукатурки, покраска, нанесение перламутра.", "foto": [
                 "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/10/10-1.jpg",
                 "https://pics-for-build-strizhevskiy-app.s3-eu-west-1.amazonaws.com/10/10-2.jpg",
