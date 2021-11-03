@@ -7,7 +7,7 @@
     "aws-sdk": "^2.600.0",
     "bluebird": "^3.5.0",
     "mongoose": "^5.6.9",
-    "validator": "^7.0.0"
+    "validator": "^13.7.0"
   },
   "author": "Quentin Homareau <quentin.homareau@gmail.com>",
   "license": "MIT"
